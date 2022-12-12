@@ -51,7 +51,7 @@
     "gulp-uglify": "^3.0.0",
     "gulp-zip": "^4.1.0",
     "interactjs": "^1.2.9",
-    "jest": "^23.1.0",
+    "jest": "^29.3.1",
     "js-yaml": "^3.8.4",
     "node-sass": "^4.9.3",
     "preprocessify": "^1.0.1",
